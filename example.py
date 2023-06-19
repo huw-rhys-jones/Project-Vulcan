@@ -1,20 +1,20 @@
-# This is called a comment. Any line in Python that starts with a hash is a comment line. 
+# This is called a comment. Any line in Python that starts with a hash is a comment line.
 # This is simply a statement intended to be read by humans only. It will be completely ignored
 # by the programme itself. Comment lines are important to explain to other humans (including
 # your future self) what you have done and why. It's like an instruction manual.
 
-# ============================= PART 1 ============================= 
+# ============================= PART 1 =============================
 
-#Below we are defining a variable. The term on the left is the name of the variable (words). 
+#Below we are defining a variable. The term on the left is the name of the variable (words).
 # This variable is of the string type - strings are just words inside inverted commas.
 words = "I love beer!"
 
-# Below is an alternative definition of the variable on line 10. However, in this case it is commented out. 
+# Below is an alternative definition of the variable on line 10. However, in this case it is commented out.
 # words = "I hate beer!"
 
 # Below is a print statement. Everything inside the curved brackets is written out to the terminal.
 # In this case, we are asking it to print the variable we defined above.
-Print(words)
+print(words)
 
 # Try pressing the play button (⏵) in the top right hand corner to run this code. What do you see in the terminal below?
 
@@ -42,5 +42,4 @@ Print(words)
 
 
 # When you've done all that, press the run button again. What happens now?
-
 
