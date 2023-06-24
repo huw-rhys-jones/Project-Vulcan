@@ -39,7 +39,7 @@ print(words)
 # It should be pretty much the same, but instead of words, it'll be the name of the variable defined on line 36.
 # Write this print statement on line 42.
 
-
+print("I hate beer!")
 
 # When you've done all that, press the run button again. What happens now?
 
