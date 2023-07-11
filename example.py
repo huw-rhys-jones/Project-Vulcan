@@ -7,10 +7,10 @@
 
 #Below we are defining a variable. The term on the left is the name of the variable (words).
 # This variable is of the string type - strings are just words inside inverted commas.
-words = "I love beer!"
+# words = "I love beer!"
 
 # Below is an alternative definition of the variable on line 10. However, in this case it is commented out.
-# words = "I hate beer!"
+words = "I hate beer!"
 
 # Below is a print statement. Everything inside the curved brackets is written out to the terminal.
 # In this case, we are asking it to print the variable we defined above.
@@ -33,13 +33,13 @@ print(words)
 # equals symbol, then some text within inverted commas. It can be called anything you want and the text can be anything
 # you want. Define this new variable on line 36.
 
-
+arse = "poop hole surprise"
 
 # Next, we will print out the variable we defined on line 36. Write a print statement below, similar to that on line 17.
 # It should be pretty much the same, but instead of words, it'll be the name of the variable defined on line 36.
 # Write this print statement on line 42.
 
-
+print(arse)
 
 # When you've done all that, press the run button again. What happens now?
 
