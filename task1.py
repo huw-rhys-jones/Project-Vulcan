@@ -11,7 +11,8 @@ number_second = 2
 # you can check the type of any variable with the built-in type() function
 print("The variable type of number_first is", type(number_first))
 
-print(" ")
+print("The variable type of number_first is", type(number_first))
+
 
 # The above should tell you that number_first is of class 'int'
 # don't worry about what a class is just yet, just focus on the 
@@ -118,7 +119,29 @@ print(" ")
 # You could also try mixing up integers and floats and checking 
 # the type.
 
+float_sum = float_first + float_third
 
+print("The sum of the two numbers is:", float_sum)
 
-print(" ")
+float_sum = float_first + float_second
 
+print("The sum of the two numbers is:", float_sum)
+
+float_product = float_first * float_third
+
+print("The product of the two numbers is:", float_product)
+print("The variable type of float_product is", type(float_product))
+
+float_quotient = float_first / float_third
+
+print("The quotient of the two numbers is:", float_quotient)
+print("The variable type of float_quotient is", type(float_quotient))
+
+float_sum = float_first + number_first
+
+print("The sum of the two numbers is:", float_sum)
+
+float_quotient = float_first / number_first
+
+print("The quotient of the two numbers is:", float_quotient)
+print("The variable type of float_quotient is", type(float_quotient))

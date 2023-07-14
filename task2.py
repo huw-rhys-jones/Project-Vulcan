@@ -40,10 +40,17 @@ print(" ")
 # What about summing a string and an integer or float? You task is 
 # to write code below to do that. 
 
+float_first = 2.2
 
+number_first =2
 
+words_first = "the answer is"
 
+words_summed = float_first + number_first
 
+print(words_summed)
+
+number_first_string = str(number_first)
 
 
 # When you have attempted this, go back to the GitHub issue for this assignment and read the note.
